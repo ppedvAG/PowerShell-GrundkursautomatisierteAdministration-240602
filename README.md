@@ -42,4 +42,7 @@ KursRepository zu Kurs PowerShell - Grundkurs automatisierte Administration der 
 - Sortieren 
 - Messen
 - Selektieren
-- Pipeline2
+- Konvertieren / Importieren / Exportieren
+- Filtern
+- Aufzählen
+- Schleifen
