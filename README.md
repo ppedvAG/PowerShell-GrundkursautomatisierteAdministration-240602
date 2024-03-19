@@ -38,7 +38,7 @@ KursRepository zu Kurs PowerShell - Grundkurs automatisierte Administration der 
     Out-File
     Out-Printer
     ```
-- PipeLine1
+- PipeLine2
 - Sortieren 
 - Messen
 - Selektieren
@@ -46,3 +46,6 @@ KursRepository zu Kurs PowerShell - Grundkurs automatisierte Administration der 
 - Filtern
 - Aufzählen
 - Schleifen
+- Verzweigung
+- Pipeline3 (ByPropertyName)
+- PowerShell Remoting
